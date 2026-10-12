@@ -19,7 +19,7 @@
 
 ## 🚀 Key Showcase Projects
 
-*  **[ESP32 FreeRTOS BLE Synchronization Architecture](https://github.com/iamcalledusman/ESP32-C3-BLE-to-WiFi-Multi-Hop-Relay-AWS-IoT)**  
+*  **[ESP32 FreeRTOS BLE Synchronization Architecture](https://github.com/iamcalledusman/esp32c6-ble5-multihop-relay-aws-iot.git)**  
   Thread-safe multithreaded FreeRTOS task handling with custom BLE GATT services, dynamic queues, and low-power sleep modes.
 
 * **[Nordic nRF52/nRF53 BLE Stack Implementation](./nrf52-ble-clock-sync)**  
