@@ -9,11 +9,11 @@
 
 | Category | Technologies & Protocols |
 | :--- | :--- |
-| **Microcontrollers** | Nordic (nRF52, nRF53, nRF9160), ESP32 (ESP-IDF, ESP32-C3/C6), STM32, STM8 |
-| **RTOS & Firmware** | FreeRTOS, Bare-Metal C, Zephyr RTOS, CMake, ESP-IDF, GCC Embedded |
+| **Microcontrollers** | Nordic (nRF52, nRF21450, nRF9160), ESP32 (ESP-IDF, ESP32-C3/C6), STM32, STM8 |
+| **RTOS & Firmware** | FreeRTOS, Bare-Metal C, Zephyr RTOS, ESP-IDF |
 | **Wireless Protocols** | Bluetooth Low Energy (BLE Stack, Custom GATT, Advertising, Clock Sync), Wi-Fi, MQTT |
 | **Cloud & Systems** | AWS IoT Core, DynamoDB, Lambda Integrations, JSON / Binary Telemetry Pipelines |
-| **Tooling & Analysis** | GDB Debugging, Logic Analyzers (Saleae), Oscilloscopes, Git / GitHub Workflows |
+| **Tooling & Analysis** | Oscilloscopes, Git / GitHub Workflows |
 
 ---
 
@@ -24,6 +24,9 @@
 
 *  **[ESP32-C6 DynamoDB Android Telemetry Viewer](https://github.com/iamcalledusman/esp32c6-dynamodb-android)**  
   Kotlin/Jetpack Compose Android app displaying decoded ESP32-C6 sensor telemetry fetched via AWS API Gateway & DynamoDB.
+
+* **[Nordic nRF9160 BLE-LTE Cloud Gateway](https://github.com/iamcalledusman/ble-lte-gateway-nrf9160-aws)**  
+  Zephyr-based firmware bridging local BLE telemetry over cellular LTE-M/NB-IoT directly to AWS IoT Core.
 
 
 
