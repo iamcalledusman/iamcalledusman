@@ -19,14 +19,13 @@
 
 ## 🚀 Key Showcase Projects
 
-*  **[ESP32 FreeRTOS BLE Synchronization Architecture](https://github.com/iamcalledusman/esp32c6-ble5-multihop-relay-aws-iot.git)**  
+*  **[ESP32-C6 FreeRTOS BLE Synchronization Architecture](https://github.com/iamcalledusman/esp32c6-ble5-multihop-relay-aws-iot.git)**  
   FreeRTOS firmware implementing BLE extended/periodic advertisements, multi-hop relay synchronization, and AWS IoT MQTT telemetry.
 
-* **[Nordic nRF52/nRF53 BLE Stack Implementation](./nrf52-ble-clock-sync)**  
-  *Low-power BLE beaconing and multi-node synchronization built on Nordic nRF Connect SDK / Zephyr RTOS.*
+*  **[ESP32-C6 DynamoDB Android Telemetry Viewer](https://github.com/iamcalledusman/esp32c6-dynamodb-android)**  
+  Kotlin/Jetpack Compose Android app displaying decoded ESP32-C6 sensor telemetry fetched via AWS API Gateway & DynamoDB.
 
-* **[AWS IoT Sensor Telemetry Pipeline](./aws-iot-telemetry-esp32)**  
-  *End-to-end device-to-cloud pipeline pushing encrypted MQTT payloads to AWS Lambda & DynamoDB.*
+
 
 ---
 
